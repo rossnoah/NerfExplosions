@@ -19,4 +19,5 @@ _Lets you limit or increase explosion damage taken by players_
 # NerfExplosions lets you limit or increase explosion damage taken by players
 # The default value is 0.5 meaning that players take 50% of the regular damage
 
-multiplier: 0.5```
+multiplier: 0.5
+```
