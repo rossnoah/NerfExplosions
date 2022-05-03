@@ -1,0 +1,15 @@
+name: NerfExplosions
+version: '${project.version}'
+main: com.notablenoah.nerfexplosions.NerfExplosions
+api-version: 1.16
+prefix: NerfExplosions
+authors: [ notablenoah ]
+description: Lets you set a multiplier for explosion damage dealt to players
+website: https://github.com/notablenoah/NerfExplosions
+commands:
+  NerfExplosionsReload:
+    description: Use this command to update the explosion multiplier
+    permission: nerfexplosions.reload
+    usage: /<command>
+    aliases:
+      - ner
